@@ -1,0 +1,25 @@
+version,N,N_AL,medida,grupo,efecto,ic95_inf,ic95_sup
+completo,4474,342,citas recibidas (razon de tasas),al,0.5925,0.4583,0.7659
+completo,4474,342,alguna intermediacion entre lineas (odds ratio),al,0.6055,0.4641,0.79
+completo,4474,342,citas recibidas (razon de tasas),al_solo,0.4345,0.2817,0.67
+completo,4474,342,citas recibidas (razon de tasas),al_mixto,0.7985,0.5909,1.0791
+completo,4474,342,alguna intermediacion entre lineas (odds ratio),al_solo,0.374,0.2601,0.5378
+completo,4474,342,alguna intermediacion entre lineas (odds ratio),al_mixto,1.0546,0.728,1.5278
+sin_duplicados,4463,339,citas recibidas (razon de tasas),al,0.593,0.4586,0.7667
+sin_duplicados,4463,339,alguna intermediacion entre lineas (odds ratio),al,0.6096,0.4669,0.796
+sin_duplicados,4463,339,citas recibidas (razon de tasas),al_solo,0.436,0.2827,0.6724
+sin_duplicados,4463,339,citas recibidas (razon de tasas),al_mixto,0.7972,0.5897,1.0777
+sin_duplicados,4463,339,alguna intermediacion entre lineas (odds ratio),al_solo,0.3778,0.2622,0.5444
+sin_duplicados,4463,339,alguna intermediacion entre lineas (odds ratio),al_mixto,1.052,0.7264,1.5237
+nucleo,4236,324,citas recibidas (razon de tasas),al,0.61,0.4678,0.7955
+nucleo,4236,324,alguna intermediacion entre lineas (odds ratio),al,0.5838,0.4434,0.7685
+nucleo,4236,324,citas recibidas (razon de tasas),al_solo,0.4665,0.3008,0.7235
+nucleo,4236,324,citas recibidas (razon de tasas),al_mixto,0.7784,0.5644,1.0735
+nucleo,4236,324,alguna intermediacion entre lineas (odds ratio),al_solo,0.3683,0.2549,0.5321
+nucleo,4236,324,alguna intermediacion entre lineas (odds ratio),al_mixto,0.9855,0.6667,1.4568
+articulos,3158,234,citas recibidas (razon de tasas),al,0.6187,0.4725,0.81
+articulos,3158,234,alguna intermediacion entre lineas (odds ratio),al,0.7288,0.5338,0.9952
+articulos,3158,234,citas recibidas (razon de tasas),al_solo,0.4857,0.3103,0.7602
+articulos,3158,234,citas recibidas (razon de tasas),al_mixto,0.7853,0.5717,1.0787
+articulos,3158,234,alguna intermediacion entre lineas (odds ratio),al_solo,0.4295,0.2785,0.6624
+articulos,3158,234,alguna intermediacion entre lineas (odds ratio),al_mixto,1.2952,0.8472,1.9801

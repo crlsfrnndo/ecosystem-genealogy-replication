@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them as below."
+type: software
+title: "Replication materials for 'One word, several lineages: A genealogy of the ecosystem concept and the place of Latin American research'"
+authors:
+  - family-names: "Morales Sánchez"
+    given-names: "Carlos Fernando"
+    orcid: "https://orcid.org/0000-0001-7119-2183"
+version: "0.1.0"
+license: MIT
+keywords:
+  - ecosystem concept
+  - Latin America
+  - management history
+  - entrepreneurial ecosystems
+  - citation network analysis
+  - main path analysis

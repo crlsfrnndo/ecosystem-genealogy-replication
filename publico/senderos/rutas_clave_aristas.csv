@@ -1,0 +1,442 @@
+"modo","k","desde","hacia","desde_id","hacia_id","comunidad_desde","comunidad_hacia","spc","spc_relativo"
+"global",1,"Adner R., 2006","Adner R., 2010",9,49,"Innovacion","Estrategia y plataformas",23843534,1
+"global",1,"Adner R., 2010","Mäkinen S.J., 2013",49,160,"Estrategia y plataformas","Estrategia y plataformas",746719,0.0313
+"global",1,"Mäkinen S.J., 2013","Rong K., 2014",160,244,"Estrategia y plataformas","Estrategia y plataformas",4105374,0.1722
+"global",1,"Rong K., 2014","Adner R., 2017",244,465,"Estrategia y plataformas","Estrategia y plataformas",15011325,0.6296
+"global",1,"Adner R., 2017","Jacobides M.G., 2018",465,704,"Estrategia y plataformas","Estrategia y plataformas",4465152,0.1873
+"global",1,"Jacobides M.G., 2018","Cennamo C., 2019",704,1020,"Estrategia y plataformas","Estrategia y plataformas",2111780,0.0886
+"global",1,"Cennamo C., 2019","Shipilov A., 2020",1020,1282,"Estrategia y plataformas","Estrategia y plataformas",1603200,0.0672
+"global",1,"Shipilov A., 2020","Guéneau G., 2022",1282,2209,"Estrategia y plataformas","Emprendimiento",136640,0.0057
+"global",1,"Guéneau G., 2022","Wurth B., 2023",2209,3040,"Emprendimiento","Emprendimiento",657216,0.0276
+"global",1,"Wurth B., 2023","Harima A., 2024",3040,3457,"Emprendimiento","Emprendimiento",4720080,0.198
+"global",1,"Harima A., 2024","Bonomi Santos J., 2025",3457,4532,"Emprendimiento","Emprendimiento",1441692,0.0605
+"global",1,"Bonomi Santos J., 2025","Joel J., 2026",4532,4786,"Emprendimiento","Emprendimiento",377674,0.0158
+"global",5,"Adner R., 2006","Adner R., 2010",9,49,"Innovacion","Estrategia y plataformas",23843534,1
+"global",5,"Adner R., 2010","Mäkinen S.J., 2013",49,160,"Estrategia y plataformas","Estrategia y plataformas",746719,0.0313
+"global",5,"Mäkinen S.J., 2013","Rong K., 2014",160,244,"Estrategia y plataformas","Estrategia y plataformas",4105374,0.1722
+"global",5,"Rong K., 2014","Adner R., 2017",244,465,"Estrategia y plataformas","Estrategia y plataformas",15011325,0.6296
+"global",5,"Adner R., 2017","Jacobides M.G., 2018",465,704,"Estrategia y plataformas","Estrategia y plataformas",4465152,0.1873
+"global",5,"Jacobides M.G., 2018","Cennamo C., 2019",704,1020,"Estrategia y plataformas","Estrategia y plataformas",2111780,0.0886
+"global",5,"Cennamo C., 2019","Shipilov A., 2020",1020,1282,"Estrategia y plataformas","Estrategia y plataformas",1603200,0.0672
+"global",5,"Shipilov A., 2020","Guéneau G., 2022",1282,2209,"Estrategia y plataformas","Emprendimiento",136640,0.0057
+"global",5,"Guéneau G., 2022","Wurth B., 2023",2209,3040,"Emprendimiento","Emprendimiento",657216,0.0276
+"global",5,"Wurth B., 2023","Harima A., 2024",3040,3457,"Emprendimiento","Emprendimiento",4720080,0.198
+"global",5,"Harima A., 2024","Bonomi Santos J., 2025",3457,4532,"Emprendimiento","Emprendimiento",1441692,0.0605
+"global",5,"Bonomi Santos J., 2025","Joel J., 2026",4532,4786,"Emprendimiento","Emprendimiento",377674,0.0158
+"global",5,"Malecki E.J., 2011","Stam E., 2015",67,268,"Emprendimiento","Emprendimiento",7137693,0.2994
+"global",5,"Stam E., 2015","Motoyama Y., 2016",268,390,"Emprendimiento","Emprendimiento",1428702,0.0599
+"global",5,"Motoyama Y., 2016","Brown R., 2017",390,498,"Emprendimiento","Emprendimiento",1850838,0.0776
+"global",5,"Brown R., 2017","Malecki E.J., 2018",498,682,"Emprendimiento","Emprendimiento",1755193,0.0736
+"global",5,"Malecki E.J., 2018","Vedula S., 2019",682,1103,"Emprendimiento","Emprendimiento",1815549,0.0761
+"global",5,"Vedula S., 2019","Spigel B., 2020",1103,1579,"Emprendimiento","Emprendimiento",1645945,0.069
+"global",5,"Spigel B., 2020","Wurth B., 2022",1579,2099,"Emprendimiento","Emprendimiento",2041897,0.0856
+"global",5,"Wurth B., 2022","Wurth B., 2023",2099,3040,"Emprendimiento","Emprendimiento",950880,0.0399
+"global",5,"Adner R., 2010","Zahra S.A., 2011",49,78,"Estrategia y plataformas","Innovacion",4337803,0.1819
+"global",5,"Zahra S.A., 2011","Zahra S.A., 2012",78,88,"Innovacion","Innovacion",2418882,0.1014
+"global",5,"Zahra S.A., 2012","Clarysse B., 2014",88,204,"Innovacion","Innovacion",3819195,0.1602
+"global",5,"Clarysse B., 2014","Azzam J.E., 2017",204,538,"Innovacion","Estrategia y plataformas",559696,0.0235
+"global",5,"Azzam J.E., 2017","Jacobides M.G., 2018",538,704,"Estrategia y plataformas","Estrategia y plataformas",5581440,0.2341
+"global",5,"Clarysse B., 2014","Theodoraki C., 2017",204,494,"Innovacion","Emprendimiento",807504,0.0339
+"global",5,"Theodoraki C., 2017","Malecki E.J., 2018",494,682,"Emprendimiento","Emprendimiento",4786890,0.2008
+"global",10,"Adner R., 2006","Adner R., 2010",9,49,"Innovacion","Estrategia y plataformas",23843534,1
+"global",10,"Adner R., 2010","Mäkinen S.J., 2013",49,160,"Estrategia y plataformas","Estrategia y plataformas",746719,0.0313
+"global",10,"Mäkinen S.J., 2013","Rong K., 2014",160,244,"Estrategia y plataformas","Estrategia y plataformas",4105374,0.1722
+"global",10,"Rong K., 2014","Adner R., 2017",244,465,"Estrategia y plataformas","Estrategia y plataformas",15011325,0.6296
+"global",10,"Adner R., 2017","Jacobides M.G., 2018",465,704,"Estrategia y plataformas","Estrategia y plataformas",4465152,0.1873
+"global",10,"Jacobides M.G., 2018","Cennamo C., 2019",704,1020,"Estrategia y plataformas","Estrategia y plataformas",2111780,0.0886
+"global",10,"Cennamo C., 2019","Shipilov A., 2020",1020,1282,"Estrategia y plataformas","Estrategia y plataformas",1603200,0.0672
+"global",10,"Shipilov A., 2020","Guéneau G., 2022",1282,2209,"Estrategia y plataformas","Emprendimiento",136640,0.0057
+"global",10,"Guéneau G., 2022","Wurth B., 2023",2209,3040,"Emprendimiento","Emprendimiento",657216,0.0276
+"global",10,"Wurth B., 2023","Harima A., 2024",3040,3457,"Emprendimiento","Emprendimiento",4720080,0.198
+"global",10,"Harima A., 2024","Bonomi Santos J., 2025",3457,4532,"Emprendimiento","Emprendimiento",1441692,0.0605
+"global",10,"Bonomi Santos J., 2025","Joel J., 2026",4532,4786,"Emprendimiento","Emprendimiento",377674,0.0158
+"global",10,"Malecki E.J., 2011","Stam E., 2015",67,268,"Emprendimiento","Emprendimiento",7137693,0.2994
+"global",10,"Stam E., 2015","Motoyama Y., 2016",268,390,"Emprendimiento","Emprendimiento",1428702,0.0599
+"global",10,"Motoyama Y., 2016","Brown R., 2017",390,498,"Emprendimiento","Emprendimiento",1850838,0.0776
+"global",10,"Brown R., 2017","Malecki E.J., 2018",498,682,"Emprendimiento","Emprendimiento",1755193,0.0736
+"global",10,"Malecki E.J., 2018","Vedula S., 2019",682,1103,"Emprendimiento","Emprendimiento",1815549,0.0761
+"global",10,"Vedula S., 2019","Spigel B., 2020",1103,1579,"Emprendimiento","Emprendimiento",1645945,0.069
+"global",10,"Spigel B., 2020","Wurth B., 2022",1579,2099,"Emprendimiento","Emprendimiento",2041897,0.0856
+"global",10,"Wurth B., 2022","Wurth B., 2023",2099,3040,"Emprendimiento","Emprendimiento",950880,0.0399
+"global",10,"Adner R., 2010","Zahra S.A., 2011",49,78,"Estrategia y plataformas","Innovacion",4337803,0.1819
+"global",10,"Zahra S.A., 2011","Zahra S.A., 2012",78,88,"Innovacion","Innovacion",2418882,0.1014
+"global",10,"Zahra S.A., 2012","Clarysse B., 2014",88,204,"Innovacion","Innovacion",3819195,0.1602
+"global",10,"Clarysse B., 2014","Azzam J.E., 2017",204,538,"Innovacion","Estrategia y plataformas",559696,0.0235
+"global",10,"Azzam J.E., 2017","Jacobides M.G., 2018",538,704,"Estrategia y plataformas","Estrategia y plataformas",5581440,0.2341
+"global",10,"Clarysse B., 2014","Theodoraki C., 2017",204,494,"Innovacion","Emprendimiento",807504,0.0339
+"global",10,"Theodoraki C., 2017","Malecki E.J., 2018",494,682,"Emprendimiento","Emprendimiento",4786890,0.2008
+"global",20,"Adner R., 2006","Adner R., 2010",9,49,"Innovacion","Estrategia y plataformas",23843534,1
+"global",20,"Adner R., 2010","Mäkinen S.J., 2013",49,160,"Estrategia y plataformas","Estrategia y plataformas",746719,0.0313
+"global",20,"Mäkinen S.J., 2013","Rong K., 2014",160,244,"Estrategia y plataformas","Estrategia y plataformas",4105374,0.1722
+"global",20,"Rong K., 2014","Adner R., 2017",244,465,"Estrategia y plataformas","Estrategia y plataformas",15011325,0.6296
+"global",20,"Adner R., 2017","Jacobides M.G., 2018",465,704,"Estrategia y plataformas","Estrategia y plataformas",4465152,0.1873
+"global",20,"Jacobides M.G., 2018","Cennamo C., 2019",704,1020,"Estrategia y plataformas","Estrategia y plataformas",2111780,0.0886
+"global",20,"Cennamo C., 2019","Shipilov A., 2020",1020,1282,"Estrategia y plataformas","Estrategia y plataformas",1603200,0.0672
+"global",20,"Shipilov A., 2020","Guéneau G., 2022",1282,2209,"Estrategia y plataformas","Emprendimiento",136640,0.0057
+"global",20,"Guéneau G., 2022","Wurth B., 2023",2209,3040,"Emprendimiento","Emprendimiento",657216,0.0276
+"global",20,"Wurth B., 2023","Harima A., 2024",3040,3457,"Emprendimiento","Emprendimiento",4720080,0.198
+"global",20,"Harima A., 2024","Bonomi Santos J., 2025",3457,4532,"Emprendimiento","Emprendimiento",1441692,0.0605
+"global",20,"Bonomi Santos J., 2025","Joel J., 2026",4532,4786,"Emprendimiento","Emprendimiento",377674,0.0158
+"global",20,"Malecki E.J., 2011","Stam E., 2015",67,268,"Emprendimiento","Emprendimiento",7137693,0.2994
+"global",20,"Stam E., 2015","Motoyama Y., 2016",268,390,"Emprendimiento","Emprendimiento",1428702,0.0599
+"global",20,"Motoyama Y., 2016","Brown R., 2017",390,498,"Emprendimiento","Emprendimiento",1850838,0.0776
+"global",20,"Brown R., 2017","Malecki E.J., 2018",498,682,"Emprendimiento","Emprendimiento",1755193,0.0736
+"global",20,"Malecki E.J., 2018","Vedula S., 2019",682,1103,"Emprendimiento","Emprendimiento",1815549,0.0761
+"global",20,"Vedula S., 2019","Spigel B., 2020",1103,1579,"Emprendimiento","Emprendimiento",1645945,0.069
+"global",20,"Spigel B., 2020","Wurth B., 2022",1579,2099,"Emprendimiento","Emprendimiento",2041897,0.0856
+"global",20,"Wurth B., 2022","Wurth B., 2023",2099,3040,"Emprendimiento","Emprendimiento",950880,0.0399
+"global",20,"Adner R., 2010","Zahra S.A., 2011",49,78,"Estrategia y plataformas","Innovacion",4337803,0.1819
+"global",20,"Zahra S.A., 2011","Zahra S.A., 2012",78,88,"Innovacion","Innovacion",2418882,0.1014
+"global",20,"Zahra S.A., 2012","Clarysse B., 2014",88,204,"Innovacion","Innovacion",3819195,0.1602
+"global",20,"Clarysse B., 2014","Azzam J.E., 2017",204,538,"Innovacion","Estrategia y plataformas",559696,0.0235
+"global",20,"Azzam J.E., 2017","Jacobides M.G., 2018",538,704,"Estrategia y plataformas","Estrategia y plataformas",5581440,0.2341
+"global",20,"Clarysse B., 2014","Theodoraki C., 2017",204,494,"Innovacion","Emprendimiento",807504,0.0339
+"global",20,"Theodoraki C., 2017","Malecki E.J., 2018",494,682,"Emprendimiento","Emprendimiento",4786890,0.2008
+"global",20,"Adomavicius G., 2007","Ceccagnoli M., 2012",19,90,"Innovacion","Estrategia y plataformas",3236312,0.1357
+"global",20,"Ceccagnoli M., 2012","Rong K., 2014",90,244,"Estrategia y plataformas","Estrategia y plataformas",586482,0.0246
+"global",20,"Adner R., 2006","Basole R.C., 2009",9,39,"Innovacion","Estrategia y plataformas",1557135,0.0653
+"global",20,"Basole R.C., 2009","Mäkinen S.J., 2013",39,160,"Estrategia y plataformas","Estrategia y plataformas",2986876,0.1253
+"global",20,"Wurth B., 2023","Theodoraki C., 2024",3040,3591,"Emprendimiento","Emprendimiento",2832048,0.1188
+"global",20,"Theodoraki C., 2024","Hess S., 2025",3591,3985,"Emprendimiento","Emprendimiento",2362500,0.0991
+"global",20,"Hess S., 2025","Cantoni R., 2026",3985,4686,"Emprendimiento","Emprendimiento",441645,0.0185
+"global",20,"Adner R., 2010","Zahra S.A., 2012",49,88,"Estrategia y plataformas","Innovacion",2418882,0.1014
+"global",20,"Hanna R., 2011","Zahra S.A., 2012",65,88,"Servicio","Innovacion",2418882,0.1014
+"global",20,"Cohen B., 2006","Mack E., 2016",8,409,"Emprendimiento","Emprendimiento",2352614,0.0987
+"global",20,"Mack E., 2016","Alvedalen J., 2017",409,482,"Emprendimiento","Emprendimiento",793723,0.0333
+"global",20,"Alvedalen J., 2017","Malecki E.J., 2018",482,682,"Emprendimiento","Emprendimiento",797815,0.0335
+"global",20,"Adner R., 2010","Kapoor R., 2013",49,123,"Estrategia y plataformas","Estrategia y plataformas",2231480,0.0936
+"global",20,"Kapoor R., 2013","Rong K., 2014",123,244,"Estrategia y plataformas","Estrategia y plataformas",586482,0.0246
+"global",20,"Zahra S.A., 2012","Minà A., 2015",88,320,"Innovacion","Estrategia y plataformas",618033,0.0259
+"global",20,"Minà A., 2015","Theodoraki C., 2017",320,494,"Estrategia y plataformas","Emprendimiento",2220636,0.0931
+"global",50,"Adner R., 2006","Adner R., 2010",9,49,"Innovacion","Estrategia y plataformas",23843534,1
+"global",50,"Adner R., 2010","Mäkinen S.J., 2013",49,160,"Estrategia y plataformas","Estrategia y plataformas",746719,0.0313
+"global",50,"Mäkinen S.J., 2013","Rong K., 2014",160,244,"Estrategia y plataformas","Estrategia y plataformas",4105374,0.1722
+"global",50,"Rong K., 2014","Adner R., 2017",244,465,"Estrategia y plataformas","Estrategia y plataformas",15011325,0.6296
+"global",50,"Adner R., 2017","Jacobides M.G., 2018",465,704,"Estrategia y plataformas","Estrategia y plataformas",4465152,0.1873
+"global",50,"Jacobides M.G., 2018","Cennamo C., 2019",704,1020,"Estrategia y plataformas","Estrategia y plataformas",2111780,0.0886
+"global",50,"Cennamo C., 2019","Shipilov A., 2020",1020,1282,"Estrategia y plataformas","Estrategia y plataformas",1603200,0.0672
+"global",50,"Shipilov A., 2020","Guéneau G., 2022",1282,2209,"Estrategia y plataformas","Emprendimiento",136640,0.0057
+"global",50,"Guéneau G., 2022","Wurth B., 2023",2209,3040,"Emprendimiento","Emprendimiento",657216,0.0276
+"global",50,"Wurth B., 2023","Harima A., 2024",3040,3457,"Emprendimiento","Emprendimiento",4720080,0.198
+"global",50,"Harima A., 2024","Bonomi Santos J., 2025",3457,4532,"Emprendimiento","Emprendimiento",1441692,0.0605
+"global",50,"Bonomi Santos J., 2025","Joel J., 2026",4532,4786,"Emprendimiento","Emprendimiento",377674,0.0158
+"global",50,"Malecki E.J., 2011","Stam E., 2015",67,268,"Emprendimiento","Emprendimiento",7137693,0.2994
+"global",50,"Stam E., 2015","Motoyama Y., 2016",268,390,"Emprendimiento","Emprendimiento",1428702,0.0599
+"global",50,"Motoyama Y., 2016","Brown R., 2017",390,498,"Emprendimiento","Emprendimiento",1850838,0.0776
+"global",50,"Brown R., 2017","Malecki E.J., 2018",498,682,"Emprendimiento","Emprendimiento",1755193,0.0736
+"global",50,"Malecki E.J., 2018","Vedula S., 2019",682,1103,"Emprendimiento","Emprendimiento",1815549,0.0761
+"global",50,"Vedula S., 2019","Spigel B., 2020",1103,1579,"Emprendimiento","Emprendimiento",1645945,0.069
+"global",50,"Spigel B., 2020","Wurth B., 2022",1579,2099,"Emprendimiento","Emprendimiento",2041897,0.0856
+"global",50,"Wurth B., 2022","Wurth B., 2023",2099,3040,"Emprendimiento","Emprendimiento",950880,0.0399
+"global",50,"Adner R., 2010","Zahra S.A., 2011",49,78,"Estrategia y plataformas","Innovacion",4337803,0.1819
+"global",50,"Zahra S.A., 2011","Zahra S.A., 2012",78,88,"Innovacion","Innovacion",2418882,0.1014
+"global",50,"Zahra S.A., 2012","Clarysse B., 2014",88,204,"Innovacion","Innovacion",3819195,0.1602
+"global",50,"Clarysse B., 2014","Azzam J.E., 2017",204,538,"Innovacion","Estrategia y plataformas",559696,0.0235
+"global",50,"Azzam J.E., 2017","Jacobides M.G., 2018",538,704,"Estrategia y plataformas","Estrategia y plataformas",5581440,0.2341
+"global",50,"Clarysse B., 2014","Theodoraki C., 2017",204,494,"Innovacion","Emprendimiento",807504,0.0339
+"global",50,"Theodoraki C., 2017","Malecki E.J., 2018",494,682,"Emprendimiento","Emprendimiento",4786890,0.2008
+"global",50,"Adomavicius G., 2007","Ceccagnoli M., 2012",19,90,"Innovacion","Estrategia y plataformas",3236312,0.1357
+"global",50,"Ceccagnoli M., 2012","Rong K., 2014",90,244,"Estrategia y plataformas","Estrategia y plataformas",586482,0.0246
+"global",50,"Adner R., 2006","Basole R.C., 2009",9,39,"Innovacion","Estrategia y plataformas",1557135,0.0653
+"global",50,"Basole R.C., 2009","Mäkinen S.J., 2013",39,160,"Estrategia y plataformas","Estrategia y plataformas",2986876,0.1253
+"global",50,"Wurth B., 2023","Theodoraki C., 2024",3040,3591,"Emprendimiento","Emprendimiento",2832048,0.1188
+"global",50,"Theodoraki C., 2024","Hess S., 2025",3591,3985,"Emprendimiento","Emprendimiento",2362500,0.0991
+"global",50,"Hess S., 2025","Cantoni R., 2026",3985,4686,"Emprendimiento","Emprendimiento",441645,0.0185
+"global",50,"Adner R., 2010","Zahra S.A., 2012",49,88,"Estrategia y plataformas","Innovacion",2418882,0.1014
+"global",50,"Hanna R., 2011","Zahra S.A., 2012",65,88,"Servicio","Innovacion",2418882,0.1014
+"global",50,"Cohen B., 2006","Mack E., 2016",8,409,"Emprendimiento","Emprendimiento",2352614,0.0987
+"global",50,"Mack E., 2016","Alvedalen J., 2017",409,482,"Emprendimiento","Emprendimiento",793723,0.0333
+"global",50,"Alvedalen J., 2017","Malecki E.J., 2018",482,682,"Emprendimiento","Emprendimiento",797815,0.0335
+"global",50,"Adner R., 2010","Kapoor R., 2013",49,123,"Estrategia y plataformas","Estrategia y plataformas",2231480,0.0936
+"global",50,"Kapoor R., 2013","Rong K., 2014",123,244,"Estrategia y plataformas","Estrategia y plataformas",586482,0.0246
+"global",50,"Zahra S.A., 2012","Minà A., 2015",88,320,"Innovacion","Estrategia y plataformas",618033,0.0259
+"global",50,"Minà A., 2015","Theodoraki C., 2017",320,494,"Estrategia y plataformas","Emprendimiento",2220636,0.0931
+"global",50,"Adner R., 2017","Thompson T.A., 2018",465,668,"Estrategia y plataformas","Emprendimiento",1962592,0.0823
+"global",50,"Thompson T.A., 2018","Vedula S., 2019",668,1103,"Emprendimiento","Emprendimiento",711246,0.0298
+"global",50,"Basole R.C., 2009","Basole R.C., 2012",39,118,"Estrategia y plataformas","Estrategia y plataformas",954584,0.04
+"global",50,"Basole R.C., 2012","Basole R.C., 2015",118,283,"Estrategia y plataformas","Estrategia y plataformas",726640,0.0305
+"global",50,"Basole R.C., 2015","Azzam J.E., 2017",283,538,"Estrategia y plataformas","Estrategia y plataformas",1958936,0.0822
+"global",50,"Adner R., 2010","Nambisan S., 2013",49,150,"Estrategia y plataformas","Innovacion",1212414,0.0508
+"global",50,"Nambisan S., 2013","Brown R., 2017",150,498,"Innovacion","Emprendimiento",1850838,0.0776
+"global",50,"Adner R., 2006","Rong K., 2013",9,128,"Innovacion","Estrategia y plataformas",856298,0.0359
+"global",50,"Rong K., 2013","Rong K., 2014",128,244,"Estrategia y plataformas","Estrategia y plataformas",1759446,0.0738
+"global",50,"Adner R., 2006","Williamson P.J., 2012",9,107,"Innovacion","Estrategia y plataformas",1561995,0.0655
+"global",50,"Williamson P.J., 2012","Rong K., 2014",107,244,"Estrategia y plataformas","Estrategia y plataformas",1759446,0.0738
+"global",50,"Zahra S.A., 2011","Brown R., 2017",78,498,"Innovacion","Emprendimiento",616946,0.0259
+"global",50,"Rohrbeck R., 2009","Van der Borgh M., 2012",41,87,"Innovacion","Innovacion",1709472,0.0717
+"global",50,"Van der Borgh M., 2012","Azzam J.E., 2017",87,538,"Innovacion","Estrategia y plataformas",139924,0.0059
+"global",50,"Jacobides M.G., 2018","Phillips M.A., 2019",704,1090,"Estrategia y plataformas","Innovacion",805852,0.0338
+"global",50,"Phillips M.A., 2019","Lingens B., 2021",1090,1679,"Innovacion","Estrategia y plataformas",1701700,0.0714
+"global",50,"Lingens B., 2021","Foss N.J., 2023",1679,2753,"Estrategia y plataformas","Estrategia y plataformas",1012125,0.0424
+"global",50,"Foss N.J., 2023","Harima A., 2024",2753,3457,"Estrategia y plataformas","Emprendimiento",593340,0.0249
+"global",50,"Theodoraki C., 2024","Stam E., 2025",3591,3887,"Emprendimiento","Emprendimiento",1687500,0.0708
+"global",50,"Stam E., 2025","Bergman B.J., Jr., 2026",3887,4731,"Emprendimiento","Emprendimiento",381650,0.016
+"global",50,"Adner R., 2010","West J., 2013",49,159,"Estrategia y plataformas","Estrategia y plataformas",1681355,0.0705
+"global",50,"West J., 2013","Rong K., 2014",159,244,"Estrategia y plataformas","Estrategia y plataformas",586482,0.0246
+"global",50,"Adner R., 2017","Rong K., 2018",465,705,"Estrategia y plataformas","Estrategia y plataformas",455040,0.0191
+"global",50,"Rong K., 2018","Hemmert M., 2019",705,1014,"Estrategia y plataformas","Emprendimiento",1173030,0.0492
+"global",50,"Hemmert M., 2019","Spigel B., 2020",1014,1579,"Emprendimiento","Emprendimiento",1665010,0.0698
+"global",50,"Thompson T.A., 2018","Vedula S., 2019",668,1104,"Emprendimiento","Emprendimiento",413706,0.0174
+"global",50,"Vedula S., 2019","Stam E., 2021",1104,1628,"Emprendimiento","Emprendimiento",1648905,0.0692
+"global",50,"Stam E., 2021","Khlystova O., 2022",1628,2484,"Emprendimiento","Emprendimiento",88479,0.0037
+"global",50,"Khlystova O., 2022","Wurth B., 2023",2484,3040,"Emprendimiento","Emprendimiento",908768,0.0381
+"global",50,"Adner R., 2017","Phillips M.A., 2018",465,799,"Estrategia y plataformas","Innovacion",239840,0.0101
+"global",50,"Phillips M.A., 2018","Phillips M.A., 2019",799,1090,"Innovacion","Innovacion",1597810,0.067
+"global",50,"Phillips M.A., 2019","Daniel L.J., 2022",1090,2352,"Innovacion","Emprendimiento",605800,0.0254
+"global",50,"Daniel L.J., 2022","Wurth B., 2023",2352,3040,"Emprendimiento","Emprendimiento",871136,0.0365
+"global",50,"Shipilov A., 2020","Altman E.J., 2022",1282,2212,"Estrategia y plataformas","Estrategia y plataformas",446656,0.0187
+"global",50,"Altman E.J., 2022","Shi X., 2023",2212,2883,"Estrategia y plataformas","Estrategia y plataformas",251040,0.0105
+"global",50,"Shi X., 2023","Shen L., 2024",2883,3374,"Estrategia y plataformas","Estrategia y plataformas",1568916,0.0658
+"global",50,"Shen L., 2024","Bonomi Santos J., 2025",3374,4532,"Estrategia y plataformas","Emprendimiento",837234,0.0351
+"global",50,"Adner R., 2017","Hannah D.P., 2018",465,670,"Estrategia y plataformas","Estrategia y plataformas",1568512,0.0658
+"global",50,"Hannah D.P., 2018","Phillips M.A., 2019",670,1090,"Estrategia y plataformas","Innovacion",319562,0.0134
+"global",50,"Peltoniemi M., 2006","Williamson P.J., 2012",11,107,"Estrategia y plataformas","Estrategia y plataformas",1561995,0.0655
+"global",50,"Iyer B., 2006","Williamson P.J., 2012",10,107,"Estrategia y plataformas","Estrategia y plataformas",1561995,0.0655
+"global",50,"Iyer B., 2006","Basole R.C., 2009",10,39,"Estrategia y plataformas","Estrategia y plataformas",1557135,0.0653
+"global",50,"Moore J.F., 2006","Basole R.C., 2009",18,39,"Estrategia y plataformas","Estrategia y plataformas",1557135,0.0653
+"global",50,"Peltoniemi M., 2006","Basole R.C., 2009",11,39,"Estrategia y plataformas","Estrategia y plataformas",1557135,0.0653
+"global",50,"Williamson P.J., 2012","Leten B., 2013",107,170,"Estrategia y plataformas","Estrategia y plataformas",1546281,0.0649
+"global",50,"Leten B., 2013","Azzam J.E., 2017",170,538,"Estrategia y plataformas","Estrategia y plataformas",419772,0.0176
+"global",50,"Clarysse B., 2014","Tsujimoto M., 2015",204,314,"Innovacion","Estrategia y plataformas",154364,0.0065
+"global",50,"Tsujimoto M., 2015","Aarikka-Stenroos L., 2017",314,554,"Estrategia y plataformas","Estrategia y plataformas",1545360,0.0648
+"global",50,"Aarikka-Stenroos L., 2017","Phillips M.A., 2018",554,799,"Estrategia y plataformas","Innovacion",809460,0.0339
+"local",1,"Adner R., 2006","Adner R., 2010",9,49,"Innovacion","Estrategia y plataformas",23843534,1
+"local",1,"Adner R., 2010","Zahra S.A., 2011",49,78,"Estrategia y plataformas","Innovacion",4337803,0.1819
+"local",1,"Zahra S.A., 2011","Zahra S.A., 2012",78,88,"Innovacion","Innovacion",2418882,0.1014
+"local",1,"Zahra S.A., 2012","Clarysse B., 2014",88,204,"Innovacion","Innovacion",3819195,0.1602
+"local",1,"Clarysse B., 2014","Hayter C.S., 2016",204,387,"Innovacion","Emprendimiento",1162112,0.0487
+"local",1,"Hayter C.S., 2016","Malecki E.J., 2018",387,682,"Emprendimiento","Emprendimiento",797815,0.0335
+"local",1,"Malecki E.J., 2018","Vedula S., 2019",682,1103,"Emprendimiento","Emprendimiento",1815549,0.0761
+"local",1,"Vedula S., 2019","Spigel B., 2020",1103,1579,"Emprendimiento","Emprendimiento",1645945,0.069
+"local",1,"Spigel B., 2020","Wurth B., 2022",1579,2099,"Emprendimiento","Emprendimiento",2041897,0.0856
+"local",1,"Wurth B., 2022","Wurth B., 2023",2099,3040,"Emprendimiento","Emprendimiento",950880,0.0399
+"local",1,"Wurth B., 2023","Harima A., 2024",3040,3457,"Emprendimiento","Emprendimiento",4720080,0.198
+"local",1,"Harima A., 2024","Bonomi Santos J., 2025",3457,4532,"Emprendimiento","Emprendimiento",1441692,0.0605
+"local",1,"Bonomi Santos J., 2025","Joel J., 2026",4532,4786,"Emprendimiento","Emprendimiento",377674,0.0158
+"local",5,"Adner R., 2006","Adner R., 2010",9,49,"Innovacion","Estrategia y plataformas",23843534,1
+"local",5,"Adner R., 2010","Zahra S.A., 2011",49,78,"Estrategia y plataformas","Innovacion",4337803,0.1819
+"local",5,"Zahra S.A., 2011","Zahra S.A., 2012",78,88,"Innovacion","Innovacion",2418882,0.1014
+"local",5,"Zahra S.A., 2012","Clarysse B., 2014",88,204,"Innovacion","Innovacion",3819195,0.1602
+"local",5,"Clarysse B., 2014","Hayter C.S., 2016",204,387,"Innovacion","Emprendimiento",1162112,0.0487
+"local",5,"Hayter C.S., 2016","Malecki E.J., 2018",387,682,"Emprendimiento","Emprendimiento",797815,0.0335
+"local",5,"Malecki E.J., 2018","Vedula S., 2019",682,1103,"Emprendimiento","Emprendimiento",1815549,0.0761
+"local",5,"Vedula S., 2019","Spigel B., 2020",1103,1579,"Emprendimiento","Emprendimiento",1645945,0.069
+"local",5,"Spigel B., 2020","Wurth B., 2022",1579,2099,"Emprendimiento","Emprendimiento",2041897,0.0856
+"local",5,"Wurth B., 2022","Wurth B., 2023",2099,3040,"Emprendimiento","Emprendimiento",950880,0.0399
+"local",5,"Wurth B., 2023","Harima A., 2024",3040,3457,"Emprendimiento","Emprendimiento",4720080,0.198
+"local",5,"Harima A., 2024","Bonomi Santos J., 2025",3457,4532,"Emprendimiento","Emprendimiento",1441692,0.0605
+"local",5,"Bonomi Santos J., 2025","Joel J., 2026",4532,4786,"Emprendimiento","Emprendimiento",377674,0.0158
+"local",5,"Adner R., 2006","Basole R.C., 2009",9,39,"Innovacion","Estrategia y plataformas",1557135,0.0653
+"local",5,"Basole R.C., 2009","Mäkinen S.J., 2013",39,160,"Estrategia y plataformas","Estrategia y plataformas",2986876,0.1253
+"local",5,"Mäkinen S.J., 2013","Rong K., 2014",160,244,"Estrategia y plataformas","Estrategia y plataformas",4105374,0.1722
+"local",5,"Rong K., 2014","Adner R., 2017",244,465,"Estrategia y plataformas","Estrategia y plataformas",15011325,0.6296
+"local",5,"Adner R., 2017","Jacobides M.G., 2018",465,704,"Estrategia y plataformas","Estrategia y plataformas",4465152,0.1873
+"local",5,"Jacobides M.G., 2018","Cennamo C., 2019",704,1020,"Estrategia y plataformas","Estrategia y plataformas",2111780,0.0886
+"local",5,"Cennamo C., 2019","Shipilov A., 2020",1020,1282,"Estrategia y plataformas","Estrategia y plataformas",1603200,0.0672
+"local",5,"Shipilov A., 2020","Altman E.J., 2022",1282,2212,"Estrategia y plataformas","Estrategia y plataformas",446656,0.0187
+"local",5,"Altman E.J., 2022","Foss N.J., 2023",2212,2753,"Estrategia y plataformas","Estrategia y plataformas",588375,0.0247
+"local",5,"Foss N.J., 2023","Jacobides M.G., 2024",2753,3312,"Estrategia y plataformas","Estrategia y plataformas",909788,0.0382
+"local",5,"Jacobides M.G., 2024","Szerb A., 2025",3312,4086,"Estrategia y plataformas","Estrategia y plataformas",86136,0.0036
+"local",5,"Szerb A., 2025","Adams J., 2026",4086,4703,"Estrategia y plataformas","Estrategia y plataformas",15317,6e-04
+"local",5,"Malecki E.J., 2011","Stam E., 2015",67,268,"Emprendimiento","Emprendimiento",7137693,0.2994
+"local",5,"Stam E., 2015","Motoyama Y., 2016",268,390,"Emprendimiento","Emprendimiento",1428702,0.0599
+"local",5,"Motoyama Y., 2016","Brown R., 2017",390,498,"Emprendimiento","Emprendimiento",1850838,0.0776
+"local",5,"Brown R., 2017","Malecki E.J., 2018",498,682,"Emprendimiento","Emprendimiento",1755193,0.0736
+"local",5,"Basole R.C., 2009","Basole R.C., 2012",39,118,"Estrategia y plataformas","Estrategia y plataformas",954584,0.04
+"local",5,"Basole R.C., 2012","Basole R.C., 2015",118,283,"Estrategia y plataformas","Estrategia y plataformas",726640,0.0305
+"local",5,"Basole R.C., 2015","Azzam J.E., 2017",283,538,"Estrategia y plataformas","Estrategia y plataformas",1958936,0.0822
+"local",5,"Azzam J.E., 2017","Jacobides M.G., 2018",538,704,"Estrategia y plataformas","Estrategia y plataformas",5581440,0.2341
+"local",5,"Adner R., 2010","Zahra S.A., 2012",49,88,"Estrategia y plataformas","Innovacion",2418882,0.1014
+"local",5,"Zahra S.A., 2012","Minà A., 2015",88,320,"Innovacion","Estrategia y plataformas",618033,0.0259
+"local",5,"Minà A., 2015","Theodoraki C., 2017",320,494,"Estrategia y plataformas","Emprendimiento",2220636,0.0931
+"local",5,"Theodoraki C., 2017","Malecki E.J., 2018",494,682,"Emprendimiento","Emprendimiento",4786890,0.2008
+"local",10,"Adner R., 2006","Adner R., 2010",9,49,"Innovacion","Estrategia y plataformas",23843534,1
+"local",10,"Adner R., 2010","Zahra S.A., 2011",49,78,"Estrategia y plataformas","Innovacion",4337803,0.1819
+"local",10,"Zahra S.A., 2011","Zahra S.A., 2012",78,88,"Innovacion","Innovacion",2418882,0.1014
+"local",10,"Zahra S.A., 2012","Clarysse B., 2014",88,204,"Innovacion","Innovacion",3819195,0.1602
+"local",10,"Clarysse B., 2014","Hayter C.S., 2016",204,387,"Innovacion","Emprendimiento",1162112,0.0487
+"local",10,"Hayter C.S., 2016","Malecki E.J., 2018",387,682,"Emprendimiento","Emprendimiento",797815,0.0335
+"local",10,"Malecki E.J., 2018","Vedula S., 2019",682,1103,"Emprendimiento","Emprendimiento",1815549,0.0761
+"local",10,"Vedula S., 2019","Spigel B., 2020",1103,1579,"Emprendimiento","Emprendimiento",1645945,0.069
+"local",10,"Spigel B., 2020","Wurth B., 2022",1579,2099,"Emprendimiento","Emprendimiento",2041897,0.0856
+"local",10,"Wurth B., 2022","Wurth B., 2023",2099,3040,"Emprendimiento","Emprendimiento",950880,0.0399
+"local",10,"Wurth B., 2023","Harima A., 2024",3040,3457,"Emprendimiento","Emprendimiento",4720080,0.198
+"local",10,"Harima A., 2024","Bonomi Santos J., 2025",3457,4532,"Emprendimiento","Emprendimiento",1441692,0.0605
+"local",10,"Bonomi Santos J., 2025","Joel J., 2026",4532,4786,"Emprendimiento","Emprendimiento",377674,0.0158
+"local",10,"Adner R., 2006","Basole R.C., 2009",9,39,"Innovacion","Estrategia y plataformas",1557135,0.0653
+"local",10,"Basole R.C., 2009","Mäkinen S.J., 2013",39,160,"Estrategia y plataformas","Estrategia y plataformas",2986876,0.1253
+"local",10,"Mäkinen S.J., 2013","Rong K., 2014",160,244,"Estrategia y plataformas","Estrategia y plataformas",4105374,0.1722
+"local",10,"Rong K., 2014","Adner R., 2017",244,465,"Estrategia y plataformas","Estrategia y plataformas",15011325,0.6296
+"local",10,"Adner R., 2017","Jacobides M.G., 2018",465,704,"Estrategia y plataformas","Estrategia y plataformas",4465152,0.1873
+"local",10,"Jacobides M.G., 2018","Cennamo C., 2019",704,1020,"Estrategia y plataformas","Estrategia y plataformas",2111780,0.0886
+"local",10,"Cennamo C., 2019","Shipilov A., 2020",1020,1282,"Estrategia y plataformas","Estrategia y plataformas",1603200,0.0672
+"local",10,"Shipilov A., 2020","Altman E.J., 2022",1282,2212,"Estrategia y plataformas","Estrategia y plataformas",446656,0.0187
+"local",10,"Altman E.J., 2022","Foss N.J., 2023",2212,2753,"Estrategia y plataformas","Estrategia y plataformas",588375,0.0247
+"local",10,"Foss N.J., 2023","Jacobides M.G., 2024",2753,3312,"Estrategia y plataformas","Estrategia y plataformas",909788,0.0382
+"local",10,"Jacobides M.G., 2024","Szerb A., 2025",3312,4086,"Estrategia y plataformas","Estrategia y plataformas",86136,0.0036
+"local",10,"Szerb A., 2025","Adams J., 2026",4086,4703,"Estrategia y plataformas","Estrategia y plataformas",15317,6e-04
+"local",10,"Malecki E.J., 2011","Stam E., 2015",67,268,"Emprendimiento","Emprendimiento",7137693,0.2994
+"local",10,"Stam E., 2015","Motoyama Y., 2016",268,390,"Emprendimiento","Emprendimiento",1428702,0.0599
+"local",10,"Motoyama Y., 2016","Brown R., 2017",390,498,"Emprendimiento","Emprendimiento",1850838,0.0776
+"local",10,"Brown R., 2017","Malecki E.J., 2018",498,682,"Emprendimiento","Emprendimiento",1755193,0.0736
+"local",10,"Basole R.C., 2009","Basole R.C., 2012",39,118,"Estrategia y plataformas","Estrategia y plataformas",954584,0.04
+"local",10,"Basole R.C., 2012","Basole R.C., 2015",118,283,"Estrategia y plataformas","Estrategia y plataformas",726640,0.0305
+"local",10,"Basole R.C., 2015","Azzam J.E., 2017",283,538,"Estrategia y plataformas","Estrategia y plataformas",1958936,0.0822
+"local",10,"Azzam J.E., 2017","Jacobides M.G., 2018",538,704,"Estrategia y plataformas","Estrategia y plataformas",5581440,0.2341
+"local",10,"Adner R., 2010","Zahra S.A., 2012",49,88,"Estrategia y plataformas","Innovacion",2418882,0.1014
+"local",10,"Zahra S.A., 2012","Minà A., 2015",88,320,"Innovacion","Estrategia y plataformas",618033,0.0259
+"local",10,"Minà A., 2015","Theodoraki C., 2017",320,494,"Estrategia y plataformas","Emprendimiento",2220636,0.0931
+"local",10,"Theodoraki C., 2017","Malecki E.J., 2018",494,682,"Emprendimiento","Emprendimiento",4786890,0.2008
+"local",10,"Rong K., 2014","Wulf A., 2016",244,381,"Estrategia y plataformas","Estrategia y plataformas",406863,0.0171
+"local",10,"Wulf A., 2016","Wulf A., 2017",381,534,"Estrategia y plataformas","Estrategia y plataformas",511904,0.0215
+"local",10,"Wulf A., 2017","Rong K., 2018",534,705,"Estrategia y plataformas","Estrategia y plataformas",838980,0.0352
+"local",10,"Rong K., 2018","Hemmert M., 2019",705,1014,"Estrategia y plataformas","Emprendimiento",1173030,0.0492
+"local",10,"Hemmert M., 2019","Spigel B., 2020",1014,1579,"Emprendimiento","Emprendimiento",1665010,0.0698
+"local",20,"Adner R., 2006","Adner R., 2010",9,49,"Innovacion","Estrategia y plataformas",23843534,1
+"local",20,"Adner R., 2010","Zahra S.A., 2011",49,78,"Estrategia y plataformas","Innovacion",4337803,0.1819
+"local",20,"Zahra S.A., 2011","Zahra S.A., 2012",78,88,"Innovacion","Innovacion",2418882,0.1014
+"local",20,"Zahra S.A., 2012","Clarysse B., 2014",88,204,"Innovacion","Innovacion",3819195,0.1602
+"local",20,"Clarysse B., 2014","Hayter C.S., 2016",204,387,"Innovacion","Emprendimiento",1162112,0.0487
+"local",20,"Hayter C.S., 2016","Malecki E.J., 2018",387,682,"Emprendimiento","Emprendimiento",797815,0.0335
+"local",20,"Malecki E.J., 2018","Vedula S., 2019",682,1103,"Emprendimiento","Emprendimiento",1815549,0.0761
+"local",20,"Vedula S., 2019","Spigel B., 2020",1103,1579,"Emprendimiento","Emprendimiento",1645945,0.069
+"local",20,"Spigel B., 2020","Wurth B., 2022",1579,2099,"Emprendimiento","Emprendimiento",2041897,0.0856
+"local",20,"Wurth B., 2022","Wurth B., 2023",2099,3040,"Emprendimiento","Emprendimiento",950880,0.0399
+"local",20,"Wurth B., 2023","Harima A., 2024",3040,3457,"Emprendimiento","Emprendimiento",4720080,0.198
+"local",20,"Harima A., 2024","Bonomi Santos J., 2025",3457,4532,"Emprendimiento","Emprendimiento",1441692,0.0605
+"local",20,"Bonomi Santos J., 2025","Joel J., 2026",4532,4786,"Emprendimiento","Emprendimiento",377674,0.0158
+"local",20,"Adner R., 2006","Basole R.C., 2009",9,39,"Innovacion","Estrategia y plataformas",1557135,0.0653
+"local",20,"Basole R.C., 2009","Mäkinen S.J., 2013",39,160,"Estrategia y plataformas","Estrategia y plataformas",2986876,0.1253
+"local",20,"Mäkinen S.J., 2013","Rong K., 2014",160,244,"Estrategia y plataformas","Estrategia y plataformas",4105374,0.1722
+"local",20,"Rong K., 2014","Adner R., 2017",244,465,"Estrategia y plataformas","Estrategia y plataformas",15011325,0.6296
+"local",20,"Adner R., 2017","Jacobides M.G., 2018",465,704,"Estrategia y plataformas","Estrategia y plataformas",4465152,0.1873
+"local",20,"Jacobides M.G., 2018","Cennamo C., 2019",704,1020,"Estrategia y plataformas","Estrategia y plataformas",2111780,0.0886
+"local",20,"Cennamo C., 2019","Shipilov A., 2020",1020,1282,"Estrategia y plataformas","Estrategia y plataformas",1603200,0.0672
+"local",20,"Shipilov A., 2020","Altman E.J., 2022",1282,2212,"Estrategia y plataformas","Estrategia y plataformas",446656,0.0187
+"local",20,"Altman E.J., 2022","Foss N.J., 2023",2212,2753,"Estrategia y plataformas","Estrategia y plataformas",588375,0.0247
+"local",20,"Foss N.J., 2023","Jacobides M.G., 2024",2753,3312,"Estrategia y plataformas","Estrategia y plataformas",909788,0.0382
+"local",20,"Jacobides M.G., 2024","Szerb A., 2025",3312,4086,"Estrategia y plataformas","Estrategia y plataformas",86136,0.0036
+"local",20,"Szerb A., 2025","Adams J., 2026",4086,4703,"Estrategia y plataformas","Estrategia y plataformas",15317,6e-04
+"local",20,"Malecki E.J., 2011","Stam E., 2015",67,268,"Emprendimiento","Emprendimiento",7137693,0.2994
+"local",20,"Stam E., 2015","Motoyama Y., 2016",268,390,"Emprendimiento","Emprendimiento",1428702,0.0599
+"local",20,"Motoyama Y., 2016","Brown R., 2017",390,498,"Emprendimiento","Emprendimiento",1850838,0.0776
+"local",20,"Brown R., 2017","Malecki E.J., 2018",498,682,"Emprendimiento","Emprendimiento",1755193,0.0736
+"local",20,"Basole R.C., 2009","Basole R.C., 2012",39,118,"Estrategia y plataformas","Estrategia y plataformas",954584,0.04
+"local",20,"Basole R.C., 2012","Basole R.C., 2015",118,283,"Estrategia y plataformas","Estrategia y plataformas",726640,0.0305
+"local",20,"Basole R.C., 2015","Azzam J.E., 2017",283,538,"Estrategia y plataformas","Estrategia y plataformas",1958936,0.0822
+"local",20,"Azzam J.E., 2017","Jacobides M.G., 2018",538,704,"Estrategia y plataformas","Estrategia y plataformas",5581440,0.2341
+"local",20,"Adner R., 2010","Zahra S.A., 2012",49,88,"Estrategia y plataformas","Innovacion",2418882,0.1014
+"local",20,"Zahra S.A., 2012","Minà A., 2015",88,320,"Innovacion","Estrategia y plataformas",618033,0.0259
+"local",20,"Minà A., 2015","Theodoraki C., 2017",320,494,"Estrategia y plataformas","Emprendimiento",2220636,0.0931
+"local",20,"Theodoraki C., 2017","Malecki E.J., 2018",494,682,"Emprendimiento","Emprendimiento",4786890,0.2008
+"local",20,"Rong K., 2014","Wulf A., 2016",244,381,"Estrategia y plataformas","Estrategia y plataformas",406863,0.0171
+"local",20,"Wulf A., 2016","Wulf A., 2017",381,534,"Estrategia y plataformas","Estrategia y plataformas",511904,0.0215
+"local",20,"Wulf A., 2017","Rong K., 2018",534,705,"Estrategia y plataformas","Estrategia y plataformas",838980,0.0352
+"local",20,"Rong K., 2018","Hemmert M., 2019",705,1014,"Estrategia y plataformas","Emprendimiento",1173030,0.0492
+"local",20,"Hemmert M., 2019","Spigel B., 2020",1014,1579,"Emprendimiento","Emprendimiento",1665010,0.0698
+"local",20,"Adomavicius G., 2007","Ceccagnoli M., 2012",19,90,"Innovacion","Estrategia y plataformas",3236312,0.1357
+"local",20,"Ceccagnoli M., 2012","Nambisan S., 2013",90,150,"Estrategia y plataformas","Innovacion",1212414,0.0508
+"local",20,"Nambisan S., 2013","Brown R., 2017",150,498,"Innovacion","Emprendimiento",1850838,0.0776
+"local",20,"Wurth B., 2023","Theodoraki C., 2024",3040,3591,"Emprendimiento","Emprendimiento",2832048,0.1188
+"local",20,"Theodoraki C., 2024","Hess S., 2025",3591,3985,"Emprendimiento","Emprendimiento",2362500,0.0991
+"local",20,"Hess S., 2025","Cantoni R., 2026",3985,4686,"Emprendimiento","Emprendimiento",441645,0.0185
+"local",20,"Hanna R., 2011","Zahra S.A., 2012",65,88,"Servicio","Innovacion",2418882,0.1014
+"local",20,"Cohen B., 2006","Mack E., 2016",8,409,"Emprendimiento","Emprendimiento",2352614,0.0987
+"local",20,"Mack E., 2016","Alvedalen J., 2017",409,482,"Emprendimiento","Emprendimiento",793723,0.0333
+"local",20,"Alvedalen J., 2017","Malecki E.J., 2018",482,682,"Emprendimiento","Emprendimiento",797815,0.0335
+"local",20,"Adner R., 2010","Kapoor R., 2013",49,123,"Estrategia y plataformas","Estrategia y plataformas",2231480,0.0936
+"local",20,"Kapoor R., 2013","Rong K., 2014",123,244,"Estrategia y plataformas","Estrategia y plataformas",586482,0.0246
+"local",50,"Adner R., 2006","Adner R., 2010",9,49,"Innovacion","Estrategia y plataformas",23843534,1
+"local",50,"Adner R., 2010","Zahra S.A., 2011",49,78,"Estrategia y plataformas","Innovacion",4337803,0.1819
+"local",50,"Zahra S.A., 2011","Zahra S.A., 2012",78,88,"Innovacion","Innovacion",2418882,0.1014
+"local",50,"Zahra S.A., 2012","Clarysse B., 2014",88,204,"Innovacion","Innovacion",3819195,0.1602
+"local",50,"Clarysse B., 2014","Hayter C.S., 2016",204,387,"Innovacion","Emprendimiento",1162112,0.0487
+"local",50,"Hayter C.S., 2016","Malecki E.J., 2018",387,682,"Emprendimiento","Emprendimiento",797815,0.0335
+"local",50,"Malecki E.J., 2018","Vedula S., 2019",682,1103,"Emprendimiento","Emprendimiento",1815549,0.0761
+"local",50,"Vedula S., 2019","Spigel B., 2020",1103,1579,"Emprendimiento","Emprendimiento",1645945,0.069
+"local",50,"Spigel B., 2020","Wurth B., 2022",1579,2099,"Emprendimiento","Emprendimiento",2041897,0.0856
+"local",50,"Wurth B., 2022","Wurth B., 2023",2099,3040,"Emprendimiento","Emprendimiento",950880,0.0399
+"local",50,"Wurth B., 2023","Harima A., 2024",3040,3457,"Emprendimiento","Emprendimiento",4720080,0.198
+"local",50,"Harima A., 2024","Bonomi Santos J., 2025",3457,4532,"Emprendimiento","Emprendimiento",1441692,0.0605
+"local",50,"Bonomi Santos J., 2025","Joel J., 2026",4532,4786,"Emprendimiento","Emprendimiento",377674,0.0158
+"local",50,"Adner R., 2006","Basole R.C., 2009",9,39,"Innovacion","Estrategia y plataformas",1557135,0.0653
+"local",50,"Basole R.C., 2009","Mäkinen S.J., 2013",39,160,"Estrategia y plataformas","Estrategia y plataformas",2986876,0.1253
+"local",50,"Mäkinen S.J., 2013","Rong K., 2014",160,244,"Estrategia y plataformas","Estrategia y plataformas",4105374,0.1722
+"local",50,"Rong K., 2014","Adner R., 2017",244,465,"Estrategia y plataformas","Estrategia y plataformas",15011325,0.6296
+"local",50,"Adner R., 2017","Jacobides M.G., 2018",465,704,"Estrategia y plataformas","Estrategia y plataformas",4465152,0.1873
+"local",50,"Jacobides M.G., 2018","Cennamo C., 2019",704,1020,"Estrategia y plataformas","Estrategia y plataformas",2111780,0.0886
+"local",50,"Cennamo C., 2019","Shipilov A., 2020",1020,1282,"Estrategia y plataformas","Estrategia y plataformas",1603200,0.0672
+"local",50,"Shipilov A., 2020","Altman E.J., 2022",1282,2212,"Estrategia y plataformas","Estrategia y plataformas",446656,0.0187
+"local",50,"Altman E.J., 2022","Foss N.J., 2023",2212,2753,"Estrategia y plataformas","Estrategia y plataformas",588375,0.0247
+"local",50,"Foss N.J., 2023","Jacobides M.G., 2024",2753,3312,"Estrategia y plataformas","Estrategia y plataformas",909788,0.0382
+"local",50,"Jacobides M.G., 2024","Szerb A., 2025",3312,4086,"Estrategia y plataformas","Estrategia y plataformas",86136,0.0036
+"local",50,"Szerb A., 2025","Adams J., 2026",4086,4703,"Estrategia y plataformas","Estrategia y plataformas",15317,6e-04
+"local",50,"Malecki E.J., 2011","Stam E., 2015",67,268,"Emprendimiento","Emprendimiento",7137693,0.2994
+"local",50,"Stam E., 2015","Motoyama Y., 2016",268,390,"Emprendimiento","Emprendimiento",1428702,0.0599
+"local",50,"Motoyama Y., 2016","Brown R., 2017",390,498,"Emprendimiento","Emprendimiento",1850838,0.0776
+"local",50,"Brown R., 2017","Malecki E.J., 2018",498,682,"Emprendimiento","Emprendimiento",1755193,0.0736
+"local",50,"Basole R.C., 2009","Basole R.C., 2012",39,118,"Estrategia y plataformas","Estrategia y plataformas",954584,0.04
+"local",50,"Basole R.C., 2012","Basole R.C., 2015",118,283,"Estrategia y plataformas","Estrategia y plataformas",726640,0.0305
+"local",50,"Basole R.C., 2015","Azzam J.E., 2017",283,538,"Estrategia y plataformas","Estrategia y plataformas",1958936,0.0822
+"local",50,"Azzam J.E., 2017","Jacobides M.G., 2018",538,704,"Estrategia y plataformas","Estrategia y plataformas",5581440,0.2341
+"local",50,"Adner R., 2010","Zahra S.A., 2012",49,88,"Estrategia y plataformas","Innovacion",2418882,0.1014
+"local",50,"Zahra S.A., 2012","Minà A., 2015",88,320,"Innovacion","Estrategia y plataformas",618033,0.0259
+"local",50,"Minà A., 2015","Theodoraki C., 2017",320,494,"Estrategia y plataformas","Emprendimiento",2220636,0.0931
+"local",50,"Theodoraki C., 2017","Malecki E.J., 2018",494,682,"Emprendimiento","Emprendimiento",4786890,0.2008
+"local",50,"Rong K., 2014","Wulf A., 2016",244,381,"Estrategia y plataformas","Estrategia y plataformas",406863,0.0171
+"local",50,"Wulf A., 2016","Wulf A., 2017",381,534,"Estrategia y plataformas","Estrategia y plataformas",511904,0.0215
+"local",50,"Wulf A., 2017","Rong K., 2018",534,705,"Estrategia y plataformas","Estrategia y plataformas",838980,0.0352
+"local",50,"Rong K., 2018","Hemmert M., 2019",705,1014,"Estrategia y plataformas","Emprendimiento",1173030,0.0492
+"local",50,"Hemmert M., 2019","Spigel B., 2020",1014,1579,"Emprendimiento","Emprendimiento",1665010,0.0698
+"local",50,"Adomavicius G., 2007","Ceccagnoli M., 2012",19,90,"Innovacion","Estrategia y plataformas",3236312,0.1357
+"local",50,"Ceccagnoli M., 2012","Nambisan S., 2013",90,150,"Estrategia y plataformas","Innovacion",1212414,0.0508
+"local",50,"Nambisan S., 2013","Brown R., 2017",150,498,"Innovacion","Emprendimiento",1850838,0.0776
+"local",50,"Wurth B., 2023","Theodoraki C., 2024",3040,3591,"Emprendimiento","Emprendimiento",2832048,0.1188
+"local",50,"Theodoraki C., 2024","Hess S., 2025",3591,3985,"Emprendimiento","Emprendimiento",2362500,0.0991
+"local",50,"Hess S., 2025","Cantoni R., 2026",3985,4686,"Emprendimiento","Emprendimiento",441645,0.0185
+"local",50,"Hanna R., 2011","Zahra S.A., 2012",65,88,"Servicio","Innovacion",2418882,0.1014
+"local",50,"Cohen B., 2006","Mack E., 2016",8,409,"Emprendimiento","Emprendimiento",2352614,0.0987
+"local",50,"Mack E., 2016","Alvedalen J., 2017",409,482,"Emprendimiento","Emprendimiento",793723,0.0333
+"local",50,"Alvedalen J., 2017","Malecki E.J., 2018",482,682,"Emprendimiento","Emprendimiento",797815,0.0335
+"local",50,"Adner R., 2010","Kapoor R., 2013",49,123,"Estrategia y plataformas","Estrategia y plataformas",2231480,0.0936
+"local",50,"Kapoor R., 2013","Rong K., 2014",123,244,"Estrategia y plataformas","Estrategia y plataformas",586482,0.0246
+"local",50,"Adner R., 2017","Thompson T.A., 2018",465,668,"Estrategia y plataformas","Emprendimiento",1962592,0.0823
+"local",50,"Thompson T.A., 2018","Vedula S., 2019",668,1103,"Emprendimiento","Emprendimiento",711246,0.0298
+"local",50,"Cohen B., 2006","Motoyama Y., 2016",8,390,"Emprendimiento","Emprendimiento",1428702,0.0599
+"local",50,"Adner R., 2006","Nambisan S., 2013",9,150,"Innovacion","Innovacion",1212414,0.0508
+"local",50,"Adner R., 2006","Rong K., 2013",9,128,"Innovacion","Estrategia y plataformas",856298,0.0359
+"local",50,"Rong K., 2013","Rong K., 2014",128,244,"Estrategia y plataformas","Estrategia y plataformas",1759446,0.0738
+"local",50,"Adner R., 2006","Williamson P.J., 2012",9,107,"Innovacion","Estrategia y plataformas",1561995,0.0655
+"local",50,"Williamson P.J., 2012","Rong K., 2014",107,244,"Estrategia y plataformas","Estrategia y plataformas",1759446,0.0738
+"local",50,"Rohrbeck R., 2009","Van der Borgh M., 2012",41,87,"Innovacion","Innovacion",1709472,0.0717
+"local",50,"Van der Borgh M., 2012","Spigel B., 2017",87,458,"Innovacion","Emprendimiento",1382834,0.058
+"local",50,"Spigel B., 2017","Malecki E.J., 2018",458,682,"Emprendimiento","Emprendimiento",478689,0.0201
+"local",50,"Adner R., 2006","Zhang J., 2011",9,64,"Innovacion","Estrategia y plataformas",504681,0.0212
+"local",50,"Zhang J., 2011","Battistella C., 2013",64,131,"Estrategia y plataformas","Estrategia y plataformas",809544,0.034
+"local",50,"Battistella C., 2013","Tsujimoto M., 2015",131,314,"Estrategia y plataformas","Estrategia y plataformas",424501,0.0178
+"local",50,"Tsujimoto M., 2015","Aarikka-Stenroos L., 2017",314,554,"Estrategia y plataformas","Estrategia y plataformas",1545360,0.0648
+"local",50,"Aarikka-Stenroos L., 2017","Phillips M.A., 2018",554,799,"Estrategia y plataformas","Innovacion",809460,0.0339
+"local",50,"Phillips M.A., 2018","Phillips M.A., 2019",799,1090,"Innovacion","Innovacion",1597810,0.067
+"local",50,"Phillips M.A., 2019","Lingens B., 2021",1090,1679,"Innovacion","Estrategia y plataformas",1701700,0.0714
+"local",50,"Lingens B., 2021","Foss N.J., 2023",1679,2753,"Estrategia y plataformas","Estrategia y plataformas",1012125,0.0424
+"local",50,"Theodoraki C., 2024","Stam E., 2025",3591,3887,"Emprendimiento","Emprendimiento",1687500,0.0708
+"local",50,"Stam E., 2025","Bergman B.J., Jr., 2026",3887,4731,"Emprendimiento","Emprendimiento",381650,0.016
+"local",50,"Adner R., 2010","West J., 2013",49,159,"Estrategia y plataformas","Estrategia y plataformas",1681355,0.0705
+"local",50,"West J., 2013","Davis J.P., 2016",159,425,"Estrategia y plataformas","Estrategia y plataformas",810430,0.034
+"local",50,"Davis J.P., 2016","Adner R., 2017",425,465,"Estrategia y plataformas","Estrategia y plataformas",555975,0.0233
+"local",50,"Malecki E.J., 2018","Vedula S., 2019",682,1104,"Emprendimiento","Emprendimiento",1056039,0.0443
+"local",50,"Vedula S., 2019","Stam E., 2021",1104,1628,"Emprendimiento","Emprendimiento",1648905,0.0692
+"local",50,"Stam E., 2021","Leendertse J., 2022",1628,2119,"Emprendimiento","Emprendimiento",324423,0.0136
+"local",50,"Leendertse J., 2022","Wurth B., 2023",2119,3040,"Emprendimiento","Emprendimiento",438592,0.0184
+"local",50,"Wurth B., 2022","Shi X., 2023",2099,2883,"Emprendimiento","Estrategia y plataformas",679200,0.0285
+"local",50,"Shi X., 2023","Shen L., 2024",2883,3374,"Estrategia y plataformas","Estrategia y plataformas",1568916,0.0658
+"local",50,"Shen L., 2024","Bonomi Santos J., 2025",3374,4532,"Estrategia y plataformas","Emprendimiento",837234,0.0351
+"local",50,"Adner R., 2017","Hannah D.P., 2018",465,670,"Estrategia y plataformas","Estrategia y plataformas",1568512,0.0658
+"local",50,"Hannah D.P., 2018","Shipilov A., 2020",670,1282,"Estrategia y plataformas","Estrategia y plataformas",460920,0.0193
+"local",50,"Peltoniemi M., 2006","Williamson P.J., 2012",11,107,"Estrategia y plataformas","Estrategia y plataformas",1561995,0.0655
+"local",50,"Iyer B., 2006","Williamson P.J., 2012",10,107,"Estrategia y plataformas","Estrategia y plataformas",1561995,0.0655
+"local",50,"Iyer B., 2006","Basole R.C., 2009",10,39,"Estrategia y plataformas","Estrategia y plataformas",1557135,0.0653
+"local",50,"Moore J.F., 2006","Basole R.C., 2009",18,39,"Estrategia y plataformas","Estrategia y plataformas",1557135,0.0653
+"local",50,"Peltoniemi M., 2006","Basole R.C., 2009",11,39,"Estrategia y plataformas","Estrategia y plataformas",1557135,0.0653
+"local",50,"Williamson P.J., 2012","Leten B., 2013",107,170,"Estrategia y plataformas","Estrategia y plataformas",1546281,0.0649
+"local",50,"Leten B., 2013","Azzam J.E., 2017",170,538,"Estrategia y plataformas","Estrategia y plataformas",419772,0.0176

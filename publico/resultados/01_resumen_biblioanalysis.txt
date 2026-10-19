@@ -1,0 +1,320 @@
+
+
+MAIN INFORMATION ABOUT DATA
+
+ Timespan                              1995 : 2027 
+ Sources (Journals, Books, etc)        1540 
+ Documents                             5269 
+ Annual Growth Rate %                  2.19 
+ Document Average Age                  4.23 
+ Average citations per doc             35.28 
+ Average citations per year per doc    5.319 
+ References                            283887 
+ 
+DOCUMENT TYPES                     
+ article               3703 
+ book                  60 
+ book chapter          759 
+ conference paper      554 
+ data paper            1 
+ editorial             46 
+ letter                2 
+ note                  18 
+ review                126 
+ 
+DOCUMENT CONTENTS
+ Keywords Plus (ID)                    7717 
+ Author's Keywords (DE)                10207 
+ 
+AUTHORS
+ Authors                               9894 
+ Author Appearances                    15538 
+ Authors of single-authored docs       598 
+ 
+AUTHORS COLLABORATION
+ Single-authored docs                  716 
+ Documents per Author                  0.533 
+ Co-Authors per Doc                    2.95 
+ International co-authorships %        31.11 
+ 
+
+Annual Scientific Production
+
+ Year    Articles
+    1995        1
+    1998        1
+    1999        1
+    2001        3
+    2003        1
+    2005        1
+    2006       11
+    2007        8
+    2008        5
+    2009       16
+    2010       16
+    2011       19
+    2012       39
+    2013       65
+    2014       65
+    2015       90
+    2016      113
+    2017      167
+    2018      277
+    2019      315
+    2020      372
+    2021      465
+    2022      581
+    2023      550
+    2024      658
+    2025      752
+    2026      675
+    2027        2
+
+Annual Percentage Growth Rate 2.19 
+
+
+Most Productive Authors
+
+        Authors        Articles      Authors        Articles Fractionalized
+1  ROUNDY PT                 39 ROUNDY PT                             28.25
+2  THEODORAKI C              34 RATTEN V                              15.50
+3  LIU Y                     29 THEODORAKI C                          13.60
+4  AUDRETSCH DB              28 AUDRETSCH DB                           9.95
+5  RONG K                    27 BELITSKI M                             9.68
+6  SHI Y                     26 LIU Y                                  8.82
+7  ZHANG Y                   26 SHI Y                                  8.78
+8  BELITSKI M                24 JANSEN S                               8.29
+9  KRCMAR H                  23 SPIGEL B                               7.92
+10 JANSEN S                  22 RONG K                                 7.82
+11 RATTEN V                  21 RITALA P                               7.23
+12 VARGAS-HERNANDEZ JG       21 ZHANG Y                                6.92
+13 ZHANG X                   21 MESSEGHEM K                            6.33
+14 WANG H                    20 THOMAS LDW                             6.31
+15 LI Y                      19 FERREIRA JJ                            6.23
+16 PARIDA V                  19 GUERRERO M                             6.17
+17 RITALA P                  19 STAM E                                 6.14
+18 CHEN Y                    18 VARGAS-HERNANDEZ JG                    6.07
+19 FERREIRA JJ               18 INOUE Y                                5.87
+20 LIU X                     18 LIU X                                  5.76
+21 WANG Y                    18 KRCMAR H                               5.70
+22 FISCHER BB                17 PROKOP D                               5.70
+23 STAM E                    17 BASOLE RC                              5.70
+24 ZHANG J                   17 ZHANG J                                5.48
+25 CHEN J                    16 CARAYANNIS EG                          5.48
+26 GUERRERO M                16 CHEN Y                                 5.48
+27 LIU J                     16 LI Y                                   5.42
+28 SECUNDO G                 16 ZHANG X                                5.39
+29 CARAYANNIS EG             15 CHEN J                                 5.32
+30 FISCHER B                 15 WANG Y                                 5.30
+
+
+Top manuscripts per citations
+
+                                  Paper                                         DOI   TC TCperYear   NTC
+1  JACOBIDES MG, 2018, STRATEGIC MANAGE J        10.1002/smj.2904                   3016     335.1 34.03
+2  ADNER R, 2017, J MANAGE                       10.1177/0149206316678451           2626     262.6 24.44
+3  ADNER R, 2010, STRATEGIC MANAGE J             10.1002/smj.821                    2338     137.5 13.69
+4  GAWER A, 2014, J PROD INNOVATION MANAGE       10.1111/jpim.12105                 1914     147.2 19.11
+5  STAM E, 2015, EUR PLANN STUD                  10.1080/09654313.2015.1061484      1866     155.5 26.21
+6  SPIGEL B, 2017, ENTREP THEORY PRACT           10.1111/etap.12167                 1861     186.1 17.32
+7  CARAYANNIS EG, 2009, INT J TECHNOL MANAGE     10.1504/ijtm.2009.023374           1790      99.4  8.75
+8  ADNER R, 2006, HARV BUS REV                                                      1590      75.7  5.36
+9  AUTIO E, 2018, STRATEG ENTREPRENEURSHIP J     10.1002/sej.1266                   1489     165.4 16.80
+10 LEE I, 2018, BUS HORIZ                        10.1016/j.bushor.2017.09.003       1228     136.4 13.86
+11 HANNA R, 2011, BUS HORIZ                      10.1016/j.bushor.2011.01.007       1187      74.2 11.55
+12 STAM E, 2021, SMALL BUS ECON                  10.1007/s11187-019-00270-6         1060     176.7 25.14
+13 GRANSTRAND O, 2020, TECHNOVATION              10.1016/j.technovation.2019.102098 1056     150.9 20.30
+14 SPIGEL B, 2018, STRATEG ENTREPRENEURSHIP J    10.1002/sej.1268                    983     109.2 11.09
+15 HELFAT CE, 2018, RES POLICY                   10.1016/j.respol.2018.01.019        930     103.3 10.49
+16 ELIA G, 2020, TECHNOL FORECAST SOC CHANGE     10.1016/j.techfore.2019.119791      911     130.1 17.51
+17 KOHTAMÄKI M, 2019, J BUS RES                  10.1016/j.jbusres.2019.06.027       883     110.4 13.55
+18 ACS ZJ, 2017, SMALL BUS ECON                  10.1007/s11187-017-9864-8           880      88.0  8.19
+19 WAREHAM J, 2014, ORGAN SCI                    10.1287/orsc.2014.0895              871      67.0  8.70
+20 CECCAGNOLI M, 2012, MIS QUART MANAGE INF SYST 10.2307/41410417                    817      54.5 11.12
+21 AUDRETSCH DB, 2017, J TECHNOL TRANSF          10.1007/s10961-016-9473-8           796      79.6  7.41
+22 HEIN A, 2020, ELECTRON MARK                   10.1007/s12525-019-00377-4          787     112.4 15.13
+23 SUSSAN F, 2017, SMALL BUS ECON                10.1007/s11187-017-9867-5           781      78.1  7.27
+24 BROWN R, 2017, SMALL BUS ECON                 10.1007/s11187-017-9865-7           750      75.0  6.98
+25 CLARYSSE B, 2014, RES POLICY                  10.1016/j.respol.2014.04.014        746      57.4  7.45
+26 VARGO SL, 2015, IND MARK MANAGE               10.1016/j.indmarman.2014.10.008     676      56.3  9.49
+27 COHEN B, 2006, BUS STRATEGY ENVIRON           10.1002/bse.428                     667      31.8  2.25
+28 WURTH B, 2022, ENTREP THEORY PRACT            10.1177/1042258721998948            658     131.6 21.75
+29 MALECKI EJ, 2018, GEOGR COMPASS               10.1111/gec3.12359                  650      72.2  7.33
+30 ALVEDALEN J, 2017, EUR PLANN STUD             10.1080/09654313.2017.1299694       648      64.8  6.03
+
+
+Corresponding Author's Countries
+
+          Country Articles    Freq SCP MCP MCP_Ratio
+1  CHINA               556 0.14815 426 130    0.2338
+2  USA                 365 0.09726 256 109    0.2986
+3  UNITED KINGDOM      299 0.07967 165 134    0.4482
+4  GERMANY             268 0.07141 188  80    0.2985
+5  ITALY               263 0.07008 176  87    0.3308
+6  FINLAND             181 0.04823 119  62    0.3425
+7  BRAZIL              151 0.04023 106  45    0.2980
+8  FRANCE              133 0.03544  76  57    0.4286
+9  SPAIN               122 0.03251  63  59    0.4836
+10 SWEDEN              115 0.03064  61  54    0.4696
+11 NETHERLANDS         113 0.03011  73  40    0.3540
+12 AUSTRALIA            96 0.02558  58  38    0.3958
+13 INDIA                86 0.02292  71  15    0.1744
+14 PORTUGAL             74 0.01972  49  25    0.3378
+15 CANADA               63 0.01679  35  28    0.4444
+16 KOREA                62 0.01652  48  14    0.2258
+17 DENMARK              53 0.01412  26  27    0.5094
+18 NORWAY               52 0.01386  35  17    0.3269
+19 IRAN                 45 0.01199  41   4    0.0889
+20 SWITZERLAND          43 0.01146  25  18    0.4186
+21 JAPAN                39 0.01039  30   9    0.2308
+22 GREECE               34 0.00906  27   7    0.2059
+23 NEW ZEALAND          34 0.00906  13  21    0.6176
+24 SOUTH AFRICA         34 0.00906  28   6    0.1765
+25 BELGIUM              30 0.00799  14  16    0.5333
+26 INDONESIA            30 0.00799  22   8    0.2667
+27 IRELAND              28 0.00746  13  15    0.5357
+28 POLAND               25 0.00666  19   6    0.2400
+29 AUSTRIA              23 0.00613   8  15    0.6522
+30 MEXICO               23 0.00613  15   8    0.3478
+
+
+SCP: Single Country Publications
+
+MCP: Multiple Country Publications
+
+
+Total Citations per Country
+
+           Country      Total Citations Average Article Citations
+1  USA                            34184                     93.65
+2  UNITED KINGDOM                 26886                     89.92
+3  CHINA                          12231                     22.00
+4  GERMANY                         9537                     35.59
+5  ITALY                           9193                     34.95
+6  NETHERLANDS                     8192                     72.50
+7  FINLAND                         7101                     39.23
+8  SWEDEN                          6736                     58.57
+9  FRANCE                          6590                     49.55
+10 BRAZIL                          3922                     25.97
+11 AUSTRALIA                       3836                     39.96
+12 SPAIN                           3266                     26.77
+13 CANADA                          2912                     46.22
+14 KOREA                           2632                     42.45
+15 PORTUGAL                        2390                     32.30
+16 DENMARK                         1925                     36.32
+17 GEORGIA                         1741                    174.10
+18 INDIA                           1472                     17.12
+19 NORWAY                          1379                     26.52
+20 SWITZERLAND                     1321                     30.72
+21 IRELAND                         1125                     40.18
+22 JAPAN                           1001                     25.67
+23 NEW ZEALAND                      995                     29.26
+24 GREECE                           734                     21.59
+25 BELGIUM                          609                     20.30
+26 AUSTRIA                          603                     26.22
+27 IRAN                             529                     11.76
+28 MEXICO                           452                     19.65
+29 HUNGARY                          441                     24.50
+30 SINGAPORE                        428                     61.14
+
+
+Most Relevant Sources
+
+                                                                                                  Sources       
+1  SUSTAINABILITY (SWITZERLAND)                                                                                 
+2  TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE                                                                  
+3  JOURNAL OF BUSINESS RESEARCH                                                                                 
+4  SMALL BUSINESS ECONOMICS                                                                                     
+5  LECTURE NOTES IN BUSINESS INFORMATION PROCESSING                                                             
+6  TECHNOVATION                                                                                                 
+7  JOURNAL OF TECHNOLOGY TRANSFER                                                                               
+8  JOURNAL OF CLEANER PRODUCTION                                                                                
+9  IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT                                                                  
+10 RESEARCH POLICY                                                                                              
+11 ELECTRONIC MARKETS                                                                                           
+12 EUROPEAN JOURNAL OF INNOVATION MANAGEMENT                                                                    
+13 INTERNATIONAL JOURNAL OF TECHNOLOGY MANAGEMENT                                                               
+14 STUDIES IN SCIENCE OF SCIENCE                                                                                
+15 SYSTEMS                                                                                                      
+16 INTERNATIONAL ENTREPRENEURSHIP AND MANAGEMENT JOURNAL                                                        
+17 CONTRIBUTIONS TO MANAGEMENT SCIENCE                                                                          
+18 INDUSTRIAL MARKETING MANAGEMENT                                                                              
+19 JOURNAL OF BUSINESS AND INDUSTRIAL MARKETING                                                                 
+20 BUSINESS STRATEGY AND THE ENVIRONMENT                                                                        
+21 JOURNAL OF BUSINESS VENTURING INSIGHTS                                                                       
+22 JOURNAL OF SERVICES MARKETING                                                                                
+23 ENTREPRENEURSHIP AND REGIONAL DEVELOPMENT                                                                    
+24 JOURNAL OF OPEN INNOVATION: TECHNOLOGY MARKET AND COMPLEXITY                                                 
+25 JOURNAL OF SERVICE MANAGEMENT                                                                                
+26 R AND D MANAGEMENT                                                                                           
+27 IFIP ADVANCES IN INFORMATION AND COMMUNICATION TECHNOLOGY                                                    
+28 EUROPEAN PLANNING STUDIES                                                                                    
+29 HANDBOOK ON DIGITAL BUSINESS ECOSYSTEMS: STRATEGIES PLATFORMS TECHNOLOGIES GOVERNANCE AND SOCIETAL CHALLENGES
+30 PROCEEDINGS OF THE EUROPEAN CONFERENCE ON INNOVATION AND ENTREPRENEURSHIP ECIE                               
+   Articles
+1       214
+2       147
+3       101
+4        92
+5        76
+6        65
+7        63
+8        58
+9        52
+10       51
+11       39
+12       37
+13       35
+14       35
+15       35
+16       34
+17       33
+18       32
+19       32
+20       31
+21       31
+22       31
+23       30
+24       30
+25       30
+26       30
+27       29
+28       27
+29       27
+30       27
+
+
+Most Relevant Keywords
+
+    Author Keywords (DE)      Articles    Keywords-Plus (ID)     Articles
+1  ENTREPRENEURIAL ECOSYSTEM       461 ECOSYSTEMS                    1231
+2  ECOSYSTEM                       421 INNOVATION                     403
+3  ENTREPRENEURIAL ECOSYSTEMS      416 ENTREPRENEUR                   208
+4  INNOVATION ECOSYSTEM            409 SUSTAINABLE DEVELOPMENT        198
+5  ENTREPRENEURSHIP                335 BUSINESS ECOSYSTEM             196
+6  INNOVATION                      286 INNOVATION ECOSYSTEM           155
+7  BUSINESS ECOSYSTEM              243 SUSTAINABILITY                 140
+8  ECOSYSTEMS                      209 ENTREPRENEURIAL ECOSYSTEM      117
+9  INNOVATION ECOSYSTEMS           197 ECOLOGY                        113
+10 SUSTAINABILITY                  176 PLATFORM ECOSYSTEMS            111
+11 VALUE CO-CREATION               154 COMPETITION                    105
+12 OPEN INNOVATION                 131 BUSINESS MODELS                103
+13 SERVICE ECOSYSTEM               130 CHINA                          101
+14 DIGITAL TRANSFORMATION           99 ECONOMICS                       99
+15 SERVICE ECOSYSTEMS               98 INFORMATION SYSTEMS             96
+16 VALUE CREATION                   92 SOFTWARE ECOSYSTEMS             96
+17 CASE STUDY                       89 VALUE CREATION                  94
+18 SERVICE-DOMINANT LOGIC           85 COMMERCE                        90
+19 CIRCULAR ECONOMY                 83 DIGITAL PLATFORMS               85
+20 GOVERNANCE                       83 DECISION MAKING                 84
+21 BUSINESS ECOSYSTEMS              73 STAKEHOLDER                     83
+22 PLATFORM ECOSYSTEM               73 INFORMATION USE                 78
+23 NETWORKS                         68 CIRCULAR ECONOMY                76
+24 ARTIFICIAL INTELLIGENCE          67 CASE-STUDIES                    75
+25 BUSINESS MODEL                   65 TECHNOLOGICAL DEVELOPMENT       73
+26 REGIONAL DEVELOPMENT             64 BUSINESS DEVELOPMENT            72
+27 SUSTAINABLE DEVELOPMENT          62 ECOSYSTEM APPROACH              72
+28 PLATFORMS                        59 KNOWLEDGE MANAGEMENT            71
+29 SOCIAL ENTREPRENEURSHIP          59 ARTIFICIAL INTELLIGENCE         63
+30 COLLABORATION                    58 DIGITAL ECOSYSTEM               60
+

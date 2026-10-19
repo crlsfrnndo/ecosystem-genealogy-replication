@@ -1,0 +1,49 @@
+linea,registros_tipo_con_refs,semilla,pct_lo_cita
+negocios,592,moore,49.8
+negocios,592,iansiti,41.9
+negocios,592,levien,40.0
+negocios,592,teece,25.5
+negocios,592,(al menos una semilla),66.6
+innovacion,1278,adner,50.4
+innovacion,1278,kapoor,33.5
+innovacion,1278,autio,29.6
+innovacion,1278,granstrand,26.5
+innovacion,1278,ritala,21.6
+innovacion,1278,oh,15.5
+innovacion,1278,(al menos una semilla),65.5
+emprendimiento,1567,isenberg,55.8
+emprendimiento,1567,spigel,66.7
+emprendimiento,1567,stam,69.6
+emprendimiento,1567,acs,56.1
+emprendimiento,1567,mason,52.1
+emprendimiento,1567,roundy,37.5
+emprendimiento,1567,audretsch,65.5
+emprendimiento,1567,malecki,26.5
+emprendimiento,1567,(al menos una semilla),89.0
+plataforma,292,gawer,70.5
+plataforma,292,cusumano,49.0
+plataforma,292,parker,57.9
+plataforma,292,van alstyne,50.7
+plataforma,292,tiwana,47.6
+plataforma,292,eisenmann,29.8
+plataforma,292,jacobides,40.8
+plataforma,292,boudreau,37.7
+plataforma,292,(al menos una semilla),84.6
+servicio,403,vargo,73.0
+servicio,403,lusch,70.2
+servicio,403,akaka,53.8
+servicio,403,chandler,35.5
+servicio,403,frow,36.2
+servicio,403,(al menos una semilla),74.4
+software,133,bosch,51.1
+software,133,jansen,69.9
+software,133,messerschmitt,18.8
+software,133,manikas,49.6
+software,133,lungu,12.8
+software,133,(al menos una semilla),82.0
+conocimiento,82,carayannis,13.4
+conocimiento,82,etzkowitz,1.2
+conocimiento,82,leydesdorff,3.7
+conocimiento,82,clarysse,24.4
+conocimiento,82,van de vrande,0.0
+conocimiento,82,(al menos una semilla),31.7

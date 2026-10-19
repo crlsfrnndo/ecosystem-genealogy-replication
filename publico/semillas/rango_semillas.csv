@@ -1,0 +1,49 @@
+linea,registros_con_el_tipo_en_titulo,semilla,puesto_primer_autor,registros_que_lo_citan,pct_registros,obra_mas_citada,citas_obra
+negocios,618,moore,1.0,354.0,57.3,1993 predators and prey: a new ecology,261.0
+negocios,618,iansiti,3.0,237.0,38.3,2004 strategy as ecology,119.0
+negocios,618,levien,,0.0,0.0,,0.0
+negocios,618,teece,5.0,140.0,22.7,2007 explicating dynamic capabilities: the nature and,62.0
+negocios,618,(10 primeros),,,,moore 354; adner 257; iansiti 237; jacobides 149; teece 140; gawer 125; li 123; yin 111; eisenhardt 107; porter 102,
+innovacion,1323,adner,1.0,641.0,48.5,2006 match your innovation strategy to your,354.0
+innovacion,1323,kapoor,35.0,133.0,10.1,2018 ecosystems: broadening the locus of value,52.0
+innovacion,1323,autio,10.0,281.0,21.2,2014 innovation ecosystems: implications for innovation management,58.0
+innovacion,1323,granstrand,7.0,323.0,24.4,2020 innovation ecosystems: a conceptual review and,295.0
+innovacion,1323,ritala,20.0,204.0,15.4,2013 value creation and capture mechanisms in,86.0
+innovacion,1323,oh,22.0,198.0,15.0,2016 innovation ecosystems: a critical examination,179.0
+innovacion,1323,(10 primeros),,,,adner 641; moore 398; wang 366; li 364; zhang 338; liu 326; granstrand 323; chen 322; jacobides 295; autio 281,
+emprendimiento,1621,isenberg,3.0,863.0,53.2,2010 how to start an entrepreneurial revolution,438.0
+emprendimiento,1621,spigel,2.0,955.0,58.9,2017 the relational organization of entrepreneurial ecosystems,695.0
+emprendimiento,1621,stam,1.0,1031.0,63.6,2015 entrepreneurial ecosystems and regional policy: a,755.0
+emprendimiento,1621,acs,5.0,773.0,47.7,2017 the lineages of the entrepreneurial ecosystem,373.0
+emprendimiento,1621,mason,7.0,571.0,35.2,2014 entrepreneurial ecosystems and growth oriented entrepreneurship,311.0
+emprendimiento,1621,roundy,6.0,581.0,35.8,2018 the emergence of entrepreneurial ecosystems: a,274.0
+emprendimiento,1621,audretsch,4.0,801.0,49.4,2017 entrepreneurial ecosystems in cities: establishing the,300.0
+emprendimiento,1621,malecki,11.0,411.0,25.4,2018 entrepreneurship and entrepreneurial ecosystems,295.0
+emprendimiento,1621,(10 primeros),,,,stam 1031; spigel 955; isenberg 863; audretsch 801; acs 773; roundy 581; mason 571; autio 553; brown 543; cohen 434,
+plataforma,299,gawer,1.0,158.0,52.8,2014 bridging differing perspectives on technological platforms:,74.0
+plataforma,299,cusumano,13.0,80.0,26.8,2019 the business of platforms: strategy in,32.0
+plataforma,299,parker,4.0,116.0,38.8,2005 two-sided network effects: a theory of,35.0
+plataforma,299,van alstyne,60.0,29.0,9.7,2016 and the new rules of strategy,22.0
+plataforma,299,tiwana,2.0,139.0,46.5,2010 platform evolution: coevolution of platform architecture,52.0
+plataforma,299,eisenmann,12.0,85.0,28.4,2011 strategic management journal,30.0
+plataforma,299,jacobides,3.0,117.0,39.1,2018 towards a theory of ecosystems,100.0
+plataforma,299,boudreau,6.0,110.0,36.8,2010 open platform strategies and innovation: granting,56.0
+plataforma,299,(10 primeros),,,,gawer 158; tiwana 139; jacobides 117; parker 116; adner 111; boudreau 110; cennamo 102; chen 101; hein 93; li 91,
+servicio,410,vargo,1.0,286.0,69.8,2016 institutions and axioms: an extension and,205.0
+servicio,410,lusch,2.0,179.0,43.7,2014 service-dominant logic: premises,66.0
+servicio,410,akaka,3.0,130.0,31.7,2013 the complexity of context: a service,60.0
+servicio,410,chandler,4.0,128.0,31.2,2011 contextualization and value-in-context: how context frames,80.0
+servicio,410,frow,5.0,101.0,24.6,2019 service ecosystem well-being: conceptualization and implications,44.0
+servicio,410,(10 primeros),,,,vargo 286; lusch 179; akaka 130; chandler 128; frow 101; edvardsson 93; chen 81; koskela-huotari 79; yin 76; li 74,
+software,137,bosch,2.0,63.0,46.0,2009 from software product lines to software,45.0
+software,137,jansen,1.0,81.0,59.1,2009 a sense of community: a research,52.0
+software,137,messerschmitt,5.0,25.0,18.2,2003 software ecosystem: understanding an indispensable technology,12.0
+software,137,manikas,3.0,61.0,44.5,2016 revisiting software ecosystems research: a longitudinal,24.0
+software,137,lungu,18.0,15.0,10.9,2010 the small project observatory: visualizing software,9.0
+software,137,(10 primeros),,,,jansen 81; bosch 63; manikas 61; iansiti 33; messerschmitt 25; hanssen 22; barbosa 20; moore 19; yin 19; santos 18,
+conocimiento,87,carayannis,29.0,8.0,9.2,2009 mode 3andquadruple helix: toward a 21st,3.0
+conocimiento,87,etzkowitz,723.0,1.0,1.1,2005 the innovating region: toward a theory,1.0
+conocimiento,87,leydesdorff,1319.0,1.0,1.1,2006 triple helix indicators of knowledge-based innovation,1.0
+conocimiento,87,clarysse,4.0,20.0,23.0,2014 creating value in ecosystems: crossing the,20.0
+conocimiento,87,van de vrande,,0.0,0.0,,0.0
+conocimiento,87,(10 primeros),,,,moore 22; adner 21; jarvi 21; clarysse 20; valkokari 20; nonaka 19; chen 16; wang 15; zhang 14; liu 14,

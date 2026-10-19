@@ -1,0 +1,14 @@
+medida,grupo,efecto,ic95_inf,ic95_sup,nota
+citas recibidas (razon de tasas),AL,0.596,0.462,0.769,Poisson robusto; efectos fijos de anio comunidad y tipo; control log(1+referencias internas); docs 2013-2025 (N=4474; AL=342)
+citas recibidas desde otra linea (razon de tasas),AL,0.591,0.413,0.844,idem
+recibe alguna cita (odds ratio),AL,0.628,0.486,0.812,logit; idem
+recibe alguna cita de otra linea (odds ratio),AL,0.597,0.446,0.799,idem
+intermediacion entre lineas (razon de tasas),AL,0.688,0.467,1.013,roles de Gould y Fernandez con la comunidad como grupo (portero + representante + enlace); p=0.058
+alguna intermediacion entre lineas (odds ratio),AL,0.605,0.464,0.789,idem
+lineas citadas (razon de tasas),AL,0.957,0.915,1.001,dado el numero de referencias
+referencias a otra linea (odds ratio),AL,0.944,0.910,0.978,proporcion ponderada por referencias
+referencias internas (razon de tasas),AL,1.229,1.111,1.360,sin control de referencias
+citas recibidas (razon de tasas),solo AL,0.44,0.29,0.68,equipos solo latinoamericanos (195)
+citas recibidas (razon de tasas),AL mixto,0.80,0.59,1.08,equipos con coautores de fuera (147)
+alguna intermediacion entre lineas (odds ratio),solo AL,0.38,0.26,0.54,
+alguna intermediacion entre lineas (odds ratio),AL mixto,1.05,0.73,1.52,

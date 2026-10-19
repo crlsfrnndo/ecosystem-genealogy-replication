@@ -1,0 +1,49 @@
+linea,semilla,registros_que_la_citan,salen_del_nucleo,pct_del_nucleo
+negocios,moore,1579,33,0.66
+negocios,iansiti,1258,86,1.72
+negocios,levien,1147,86,1.72
+negocios,teece,1322,21,0.42
+negocios,(línea entera),2790,223,4.45
+innovacion,adner,2141,125,2.5
+innovacion,kapoor,1332,81,1.62
+innovacion,autio,1922,40,0.8
+innovacion,granstrand,517,34,0.68
+innovacion,ritala,921,32,0.64
+innovacion,oh,386,16,0.32
+innovacion,(línea entera),3598,281,5.61
+emprendimiento,isenberg,1220,47,0.94
+emprendimiento,spigel,1413,64,1.28
+emprendimiento,stam,1496,81,1.62
+emprendimiento,acs,1265,66,1.32
+emprendimiento,mason,1091,37,0.74
+emprendimiento,roundy,794,22,0.44
+emprendimiento,audretsch,1563,91,1.82
+emprendimiento,malecki,521,8,0.16
+emprendimiento,(línea entera),2621,1150,22.97
+plataforma,gawer,1850,169,3.38
+plataforma,cusumano,924,44,0.88
+plataforma,parker,633,32,0.64
+plataforma,van alstyne,534,26,0.52
+plataforma,tiwana,412,22,0.44
+plataforma,eisenmann,278,3,0.06
+plataforma,jacobides,1383,121,2.42
+plataforma,boudreau,295,7,0.14
+plataforma,(línea entera),2280,396,7.91
+servicio,vargo,883,129,2.58
+servicio,lusch,907,113,2.26
+servicio,akaka,508,17,0.34
+servicio,chandler,291,4,0.08
+servicio,frow,335,3,0.06
+servicio,(línea entera),1194,437,8.73
+software,bosch,184,11,0.22
+software,jansen,265,29,0.58
+software,messerschmitt,55,6,0.12
+software,manikas,123,17,0.34
+software,lungu,29,3,0.06
+software,(línea entera),401,68,1.36
+conocimiento,carayannis,707,21,0.42
+conocimiento,etzkowitz,648,77,1.54
+conocimiento,leydesdorff,490,62,1.24
+conocimiento,clarysse,603,13,0.26
+conocimiento,van de vrande,54,1,0.02
+conocimiento,(línea entera),1564,178,3.56
